@@ -1,0 +1,397 @@
+Type,Category,Sub Category,Price (in $),Colour 1,Colour 2,Colour 3
+Men,hoodies-sweatshirts,Loose Fit Washed Hoodie,0.0,White,White,Gray
+Men,hoodies-sweatshirts,Loose Fit Washed Hoodie,0.0,Navy,Navy,Black
+Men,hoodies-sweatshirts,Loose Fit Washed Hoodie,0.0,Black,White,Black
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Beige,Black,Beige
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Black,Black,Beige
+Men,hoodies-sweatshirts,Loose Fit Hooded Jacket,0.0,Beige,Gray,Navy
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Black,Gray,White
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Black,Navy,Beige
+Men,hoodies-sweatshirts,Regular Fit Half-Zip Sweatshirt,0.0,White,Gray,White
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Beige,Gray,Gray
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Navy,Black,White
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Gray,White,Beige
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Beige,Beige,Navy
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Gray,Black,Navy
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Navy,Black,Gray
+Men,hoodies-sweatshirts,Oversized-Fit Hooded Jacket,0.0,Gray,Beige,Beige
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Navy,White,Beige
+Men,hoodies-sweatshirts,Oversized-Fit Hooded Jacket,0.0,Beige,Black,Gray
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Gray,Beige,Navy
+Men,hoodies-sweatshirts,Oversized-Fit Hooded Jacket,0.0,Beige,Gray,White
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Black,White,Navy
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,White,White,Navy
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Black,Beige,White
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,Beige,White,Gray
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,White,Black,Black
+Men,hoodies-sweatshirts,Loose Fit Hooded Jacket,0.0,Beige,White,Gray
+Men,hoodies-sweatshirts,Regular Fit Hooded Jacket,0.0,Black,Gray,Beige
+Men,hoodies-sweatshirts,Loose Fit Hooded Jacket,0.0,Beige,Black,Beige
+Men,hoodies-sweatshirts,Regular Fit Hooded Jacket,0.0,Navy,Navy,Gray
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,White,Gray,Gray
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Beige,Black,Gray
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,Gray,White,Beige
+Men,hoodies-sweatshirts,Loose-Fit Printed Sweatshirt,0.0,Black,Black,Navy
+Men,hoodies-sweatshirts,Loose Fit Hoodie,0.0,White,Black,White
+Men,hoodies-sweatshirts,Loose Fit Sweatshirt,0.0,White,White,Gray
+Men,hoodies-sweatshirts,Regular Fit Hooded Jacket,0.0,Black,Black,Beige
+Men,pants,Slim-Fit Cotton Chinos,0.0,Gray,Navy,Beige
+Men,pants,Slim-Fit Cotton Chinos,0.0,Gray,Navy,Navy
+Men,pants,Slim-Fit Cotton Chinos,0.0,Black,Black,Navy
+Men,pants,Slim-Fit Cotton Chinos,0.0,White,Navy,Gray
+Men,pants,Slim Fit Cotton Chinos,0.0,Navy,Black,White
+Men,pants,Slim Fit Cotton Chinos,0.0,White,Beige,Navy
+Men,pants,Slim-Fit Cotton Chinos,0.0,White,Navy,White
+Men,pants,Relaxed-Fit Pants,0.0,Gray,Gray,White
+Men,pants,Relaxed-Fit Pants,0.0,Beige,White,White
+Men,pants,Relaxed Fit Jersey trousers,0.0,Gray,Navy,Navy
+Men,pants,Relaxed-Fit Pants,0.0,Beige,White,Black
+Men,pants,Relaxed Fit Jersey trousers,0.0,White,White,White
+Men,pants,Regular-Fit Linen-Blend Pants,0.0,White,White,Black
+Men,pants,Regular-Fit Linen-Blend Pants,0.0,Navy,Black,Black
+Men,pants,Regular-Fit Linen Pants,0.0,Gray,Beige,Beige
+Men,pants,Regular Fit Sweatpants,0.0,White,Beige,Beige
+Men,pants,Bootcut Wool-Blend Pants,0.0,Gray,White,Black
+Men,pants,5-Pocket Textured-Weave Pants,0.0,Navy,Gray,Gray
+Men,pants,5-Pocket Carpenter Pants,0.0,Beige,Navy,Black
+Men,pants,5-pocket leather trousers,0.0,Gray,Black,Gray
+Men,pants,Slim-Fit Suit Pants,0.0,Black,Beige,Gray
+Men,pants,Regular Fit Sweatpants,0.0,Navy,Beige,Gray
+Men,pants,Slim-Fit Cargo Pants,0.0,Beige,Black,Beige
+Men,pants,Relaxed Fit Cargo Pants,0.0,Black,Gray,Navy
+Men,pants,Slim-Fit Sports Joggers with DryMove™,0.0,Black,White,White
+Men,pants,Wool-Blend Suit Pants,0.0,Gray,White,White
+Men,pants,Regular Fit Sports Cargo Joggers,0.0,Black,Navy,Gray
+Men,pants,Slim-Fit Tailored Pants,0.0,Navy,Black,Black
+Men,pants,Loose Fit Parachute Cargo Pants,0.0,Navy,Navy,Gray
+Men,pants,Slim Fit Cotton Twill Pants,0.0,Gray,Beige,Black
+Men,pants,Regular-Fit Cotton Cargo Joggers with DryMove™,0.0,Black,Black,Navy
+Men,pants,Regular-Fit Linen-Blend Pants,0.0,Gray,Black,Navy
+Men,pants,Slim-Fit Cotton Chinos,0.0,Gray,Beige,Black
+Men,pants,Relaxed-Fit Tailored Linen-Blend Pants,0.0,Black,Gray,White
+Men,pants,Relaxed-Fit Tailored Linen-Blend Pants,0.0,Beige,Gray,Black
+Men,pants,Relaxed-Fit Cargo Pants,0.0,Navy,Gray,White
+Men,jeans,Fairfax Baggy Jeans,0.0,Gray,Gray,Beige
+Men,jeans,Super Baggy Jeans,0.0,White,White,White
+Men,jeans,Slim Jeans,0.0,Navy,White,Black
+Men,jeans,Fairfax Baggy Jeans,0.0,White,Gray,Gray
+Men,jeans,Fairfax Baggy Jeans,0.0,White,Black,White
+Men,jeans,Collins Super Baggy Jeans,0.0,Navy,Navy,White
+Men,jeans,Houston Loose Jeans,0.0,Navy,Navy,Navy
+Men,jeans,Baggy Jeans,0.0,Gray,Beige,Gray
+Men,jeans,Loose Cargo Jeans,0.0,Black,White,Beige
+Men,jeans,Loose Jeans,0.0,White,Beige,Gray
+Men,jeans,Fairfax Baggy Jeans,0.0,White,Black,Navy
+Men,jeans,Loose Twisted Jeans,0.0,Beige,Beige,Black
+Men,jeans,Baggy Jeans,0.0,Gray,Gray,Black
+Men,jeans,Collins Super Baggy Jeans,0.0,Black,Navy,Beige
+Men,jeans,Collins Super Baggy Jeans,0.0,Navy,Beige,Beige
+Men,jeans,Houston Loose Jeans,0.0,Gray,Navy,Beige
+Men,jeans,Houston Loose Jeans,0.0,Navy,Black,Beige
+Men,jeans,Straight Regular Jeans,0.0,Black,Black,Gray
+Men,jeans,Loose Cargo Jeans,0.0,Beige,White,Beige
+Men,jeans,Collins Super Baggy Jeans,0.0,Gray,Navy,Gray
+Men,jeans,Super Baggy Jeans,0.0,Black,Beige,Navy
+Men,jeans,Fairfax Baggy Jeans,0.0,Navy,Gray,Beige
+Men,jeans,Loose Cargo Jeans,0.0,Beige,Gray,Beige
+Men,jeans,Super Baggy Jeans,0.0,Beige,White,White
+Men,jeans,Relaxed Jeans,0.0,Black,Beige,Beige
+Men,jeans,Baggy Jeans,0.0,Beige,Navy,Black
+Men,jeans,Super Baggy Jeans,0.0,Gray,Beige,Beige
+Men,jeans,Relaxed Fit Jeans,0.0,White,White,Black
+Men,jeans,Relaxed Jeans,0.0,Gray,Navy,White
+Men,jeans,Fairfax Baggy Jeans,0.0,Black,Gray,Beige
+Men,jeans,Loose Straight High Jeans,0.0,White,Black,White
+Men,jeans,Patterned Baggy Jeans,0.0,White,Navy,Beige
+Men,jeans,Loose Straight High Jeans,0.0,Gray,Beige,Gray
+Men,jeans,Patterned Baggy Jeans,0.0,Navy,Navy,Black
+Men,jeans,Loose Jeans,0.0,White,Beige,Black
+Men,jeans,Loose Fit Parachute Pants,0.0,Beige,Black,Black
+Men,jackets-coats,Regular-Fit Jersey Jacket,0.0,Black,Beige,Beige
+Men,jackets-coats,Denim Jacket,0.0,Black,Black,Black
+Men,jackets-coats,Regular Fit Denim Jacket,0.0,Navy,Navy,Navy
+Men,jackets-coats,Regular Fit Napped Jacket,0.0,Navy,Navy,Beige
+Men,jackets-coats,Cotton Raincoat,0.0,Black,Black,White
+Men,jackets-coats,Leather Biker Jacket,0.0,Black,Gray,Navy
+Men,jackets-coats,Regular-Fit Lightweight Bomber Jacket,0.0,Gray,Black,Gray
+Men,jackets-coats,Slim-Fit Lightweight Puffer Jacket,0.0,Navy,Navy,Navy
+Men,jackets-coats,Slim Fit Water-repellent puffer gilet,0.0,Navy,Gray,Black
+Men,jackets-coats,Regular Fit Jacket,0.0,Navy,Beige,Gray
+Men,jackets-coats,Short Textured-Weave Jacket,0.0,Navy,Gray,Beige
+Men,jackets-coats,Wool-Blend Topcoat,0.0,White,Beige,Black
+Men,jackets-coats,Regular Fit Tweed overshirt,0.0,Black,White,Navy
+Men,jackets-coats,Slim Fit Lightweight Puffer Jacket,0.0,Navy,Beige,Beige
+Men,jackets-coats,Regular-Fit Twill Overshirt,0.0,Gray,Navy,Navy
+Men,jackets-coats,Regular Fit Twill Jacket,0.0,Gray,Gray,Beige
+Men,jackets-coats,Regular Fit Denim Jacket,0.0,Navy,Navy,Gray
+Men,jackets-coats,Regular-Fit Twill Overshirt,0.0,White,Navy,White
+Men,jackets-coats,Regular-Fit Lightweight Bomber Jacket,0.0,Black,Beige,Black
+Men,jackets-coats,Regular Fit Wool-Blend Shacket,0.0,Black,Beige,White
+Men,jackets-coats,Regular-Fit Linen-Blend Overshirt,0.0,Navy,White,Gray
+Men,jackets-coats,Regular Fit Denim Jacket,0.0,Navy,Black,Beige
+Men,jackets-coats,Regular Fit Canvas Overshirt,0.0,White,White,Navy
+Men,jackets-coats,Regular-Fit Linen-Blend Overshirt,0.0,Gray,Gray,Beige
+Men,jackets-coats,Regular Fit Felted Overshirt,0.0,Navy,Navy,Gray
+Men,jackets-coats,Regular Fit Overshirt,0.0,White,Navy,Navy
+Men,jackets-coats,Regular Fit Wool-Blend Shacket,0.0,White,Beige,Navy
+Men,jackets-coats,Regular Fit Felted Overshirt,0.0,Beige,Navy,Black
+Men,jackets-coats,Regular Fit Twill Jacket,0.0,Gray,Navy,Black
+Men,jackets-coats,Regular Fit Jacket,0.0,White,Black,Black
+Men,jackets-coats,Regular Fit Windbreaker,0.0,Beige,White,Gray
+Men,jackets-coats,Regular Fit Nylon Bomber Jacket,0.0,Beige,Gray,White
+Men,jackets-coats,Regular Fit Bomber Jacket,0.0,Beige,White,White
+Men,jackets-coats,Regular-Fit Shacket,0.0,Beige,Beige,White
+Men,jackets-coats,Regular-Fit Trench Coat,0.0,Gray,Gray,Navy
+Men,jackets-coats,Regular-Fit Utility Overshirt,0.0,Black,White,Navy
+Men,shirts,Regular Fit Oxford Shirt,0.0,Navy,Navy,Gray
+Men,shirts,Regular Fit Oxford Shirt,0.0,Beige,Navy,Navy
+Men,shirts,Regular Fit Oxford Shirt,0.0,White,Beige,Gray
+Men,shirts,Regular Fit Oxford Shirt,0.0,Gray,Beige,White
+Men,shirts,Regular Fit Oxford Shirt,0.0,Black,Black,Gray
+Men,shirts,Regular Fit Oxford Shirt,0.0,Navy,Gray,Navy
+Men,shirts,Regular Fit Oxford Shirt,0.0,Gray,Beige,Gray
+Men,shirts,Loose-Fit Jersey Resort Shirt,0.0,Gray,Gray,White
+Men,shirts,Loose-Fit Jersey Resort Shirt,0.0,Black,Black,White
+Men,shirts,Regular-Fit Utility Shirt,0.0,Beige,Black,White
+Men,shirts,Regular-Fit Utility Shirt,0.0,Navy,Beige,White
+Men,shirts,Loose-Fit Shirt,0.0,Black,Beige,Gray
+Men,shirts,Loose-Fit Shirt,0.0,Beige,Beige,White
+Men,shirts,Loose-Fit Shirt,0.0,Gray,Navy,Navy
+Men,shirts,Slim Fit Easy-iron Shirt,0.0,Gray,Navy,Beige
+Men,shirts,Regular-Fit Textured Resort Shirt,0.0,Gray,Black,Black
+Men,shirts,Regular-Fit Short-Sleeved Linen-Blend Shirt,0.0,Beige,Beige,Black
+Men,shirts,Regular-Fit Short-Sleeved Linen-Blend Shirt,0.0,Beige,White,White
+Men,shirts,Relaxed Fit Short-sleeved Shirt,0.0,Navy,Navy,Beige
+Men,shirts,Pima Cotton Resort Shirt,0.0,Navy,White,Beige
+Men,shirts,Pima Cotton Shirt with Box Pleats,0.0,Navy,Navy,Navy
+Men,shirts,Relaxed Fit Linen Resort Shirt,0.0,Navy,Black,Black
+Men,shirts,Linen-Blend Shirt,0.0,Navy,Beige,Black
+Men,shirts,Slim Fit Grandad shirt,0.0,White,Navy,Black
+Men,shirts,Pima Cotton Resort Shirt,0.0,White,Navy,Beige
+Men,shirts,Regular Fit Textured Shirt,0.0,Navy,White,Gray
+Men,shirts,Muscle Fit Cotton Shirt,0.0,Black,White,White
+Men,shirts,Slim Fit Easy-iron Shirt,0.0,Black,Gray,White
+Men,shirts,Regular-Fit Textured Resort Shirt,0.0,Gray,Beige,Beige
+Men,shirts,Regular-Fit Short-Sleeved Linen-Blend Shirt,0.0,Gray,Beige,Black
+Men,shirts,Regular-Fit Resort Shirt,0.0,Navy,White,White
+Men,shirts,Regular-Fit Short-Sleeved Linen-Blend Shirt,0.0,Navy,Black,Navy
+Men,shirts,Regular-Fit Short-Sleeved Linen-Blend Shirt,0.0,Gray,White,Beige
+Men,shirts,Regular-Fit Textured Resort Shirt,0.0,Beige,Black,Gray
+Men,shirts,Slim Fit Linen Shirt,0.0,Navy,Gray,Gray
+Men,shirts,Slim Fit Linen Shirt,0.0,Navy,Gray,Gray
+Men,t-shirts-tank-tops,Regular-Fit Polo Shirt,0.0,Navy,Black,White
+Men,t-shirts-tank-tops,Regular-Fit Polo Shirt,0.0,White,Black,Beige
+Men,t-shirts-tank-tops,Regular-Fit Cable-Knit Polo Shirt,0.0,Beige,Beige,Beige
+Men,t-shirts-tank-tops,Regular-Fit Polo Shirt,0.0,Black,Black,Gray
+Men,t-shirts-tank-tops,Regular-Fit Cable-Knit Polo Shirt,0.0,Navy,Beige,Beige
+Men,t-shirts-tank-tops,Loose-Fit Boxy T-Shirt,0.0,Navy,Gray,Gray
+Men,t-shirts-tank-tops,Loose-Fit Boxy T-Shirt,0.0,White,White,Navy
+Men,t-shirts-tank-tops,Slim-Fit Ribbed Tank Top,0.0,Beige,Gray,Gray
+Men,t-shirts-tank-tops,Slim-Fit Ribbed Tank Top,0.0,Black,Navy,Gray
+Men,t-shirts-tank-tops,Slim-Fit Ribbed Tank Top,0.0,Beige,Beige,Navy
+Men,t-shirts-tank-tops,Loose-Fit Long-Sleeved Jersey Shirt,0.0,Gray,Beige,White
+Men,t-shirts-tank-tops,Loose-Fit Boxy T-Shirt,0.0,White,Gray,Gray
+Men,t-shirts-tank-tops,Slim Fit Polo Shirt,0.0,Black,Navy,Beige
+Men,t-shirts-tank-tops,Regular Fit T-shirt,0.0,Gray,Black,Gray
+Men,t-shirts-tank-tops,Slim-Fit Rib-Knit Polo Shirt,0.0,Beige,Black,Black
+Men,t-shirts-tank-tops,Loose Fit Printed T-shirt,0.0,Beige,Beige,Gray
+Men,t-shirts-tank-tops,Regular-Fit Fine-Knit Polo Shirt,0.0,Beige,Black,Gray
+Men,t-shirts-tank-tops,Loose Fit T-shirt,0.0,Black,White,Gray
+Men,t-shirts-tank-tops,Loose Fit Printed T-shirt,0.0,Black,Beige,Navy
+Men,t-shirts-tank-tops,Oversized Fit T-shirt,0.0,White,Black,Navy
+Men,t-shirts-tank-tops,3-pack Slim Fit T-shirts,0.0,Gray,Gray,White
+Men,t-shirts-tank-tops,Slim Fit Ribbed Tank Top,0.0,Black,White,Black
+Men,t-shirts-tank-tops,Loose Fit T-shirt,0.0,Navy,Gray,Gray
+Men,t-shirts-tank-tops,Loose Fit T-shirt,0.0,White,Beige,Beige
+Men,t-shirts-tank-tops,Loose Fit T-shirt,0.0,Gray,Beige,Gray
+Men,t-shirts-tank-tops,Loose Fit Printed T-shirt,0.0,Black,White,Gray
+Men,t-shirts-tank-tops,Loose Fit T-shirt,0.0,White,White,Black
+Men,t-shirts-tank-tops,Ribbed Linen-Blend Henley Shirt,0.0,Black,White,Black
+Men,t-shirts-tank-tops,Ribbed Henley Tank Top,0.0,Gray,Beige,Beige
+Men,t-shirts-tank-tops,Slim Fit Pima Cotton T-shirt,0.0,Gray,White,Black
+Men,t-shirts-tank-tops,5-pack Regular Fit T-shirts,0.0,Beige,Beige,Navy
+Men,t-shirts-tank-tops,Slim-Fit Fine-Knit T-Shirt,0.0,Gray,Gray,Gray
+Men,t-shirts-tank-tops,Regular-Fit Hole-Knit Polo Shirt,0.0,Black,White,Black
+Men,t-shirts-tank-tops,Slim-Fit Rib-Knit Polo Shirt,0.0,White,Beige,Black
+Men,t-shirts-tank-tops,Ribbed Linen-Blend Henley Shirt,0.0,Black,Gray,Beige
+Men,t-shirts-tank-tops,Slim-Fit Fine-Knit T-Shirt,0.0,Navy,Navy,White
+Men,polos,Regular-Fit Polo Shirt,0.0,Black,Black,Gray
+Men,polos,Regular-Fit Polo Shirt,0.0,Beige,Black,Beige
+Men,polos,Regular-Fit Cable-Knit Polo Shirt,0.0,White,Beige,Gray
+Men,polos,Regular-Fit Polo Shirt,0.0,Black,White,Gray
+Men,polos,Regular-Fit Cable-Knit Polo Shirt,0.0,Black,Beige,Navy
+Men,polos,Slim Fit Polo Shirt,0.0,Gray,White,White
+Men,polos,Slim-Fit Rib-Knit Polo Shirt,0.0,Beige,Gray,Beige
+Men,polos,Regular-Fit Fine-Knit Polo Shirt,0.0,Beige,Black,Black
+Men,polos,Regular-Fit Hole-Knit Polo Shirt,0.0,Navy,White,Beige
+Men,polos,Slim-Fit Rib-Knit Polo Shirt,0.0,Navy,White,White
+Men,polos,Slim Fit Polo Shirt,0.0,Black,White,Black
+Men,polos,Slim Fit Polo Shirt,0.0,Navy,Gray,White
+Men,polos,Regular Fit Piqué Polo Shirt,0.0,White,Black,Black
+Men,polos,Slim-Fit Rib-Knit Polo Shirt,0.0,Black,Beige,Gray
+Men,polos,Regular-Fit Cable-Knit Polo Shirt,0.0,Beige,Navy,Black
+Men,polos,Regular Fit Piqué Polo Shirt,0.0,White,Navy,Black
+Men,polos,Regular-Fit Fine-Knit Polo Shirt,0.0,Beige,Navy,Navy
+Men,polos,Slim Fit Polo Shirt,0.0,Beige,Navy,Gray
+Men,polos,Regular-Fit Cable-Knit Polo Shirt,0.0,Black,Black,Navy
+Men,polos,Slim-Fit Textured Jersey Polo Shirt,0.0,White,White,Navy
+Men,polos,Regular-Fit Hole-Knit Polo Shirt,0.0,Gray,White,Navy
+Men,polos,Slim Fit Polo Shirt,0.0,Navy,Black,Black
+Men,polos,Regular-Fit Hole-Knit Polo Shirt,0.0,Beige,Beige,Black
+Men,polos,Slim Fit Polo Shirt,0.0,White,Black,Black
+Men,polos,Regular-Fit Pointelle-Knit Polo Shirt,0.0,White,Gray,Gray
+Men,polos,3-pack Slim Fit Polo Shirts,0.0,Gray,Beige,Black
+Men,polos,Regular Fit Piqué Polo Shirt,0.0,Navy,Navy,Navy
+Men,polos,Regular Fit Piqué Polo Shirt,0.0,White,Black,Beige
+Men,polos,Regular-Fit Pointelle-Knit Polo Shirt,0.0,Beige,Gray,Black
+Men,polos,Slim Fit Polo Shirt,0.0,Black,Navy,White
+Men,polos,Regular Fit Piqué Polo Shirt,0.0,Gray,Beige,Gray
+Men,polos,Slim Fit Polo Shirt,0.0,White,Beige,Navy
+Men,polos,Regular Fit Ribbed Polo Shirt,0.0,Navy,White,Black
+Men,polos,Slim Fit Cotton Polo Shirt,0.0,Gray,Black,White
+Men,polos,Regular-Fit Hole-Knit Polo Shirt,0.0,Black,Navy,Beige
+Men,polos,Slim Fit Polo Shirt,0.0,Black,Beige,Gray
+Men,cardigans-sweaters,Slim Fit Fine-Knit Sweater,0.0,Black,Navy,Beige
+Men,cardigans-sweaters,Slim Fit Fine-Knit Sweater,0.0,Navy,White,Black
+Men,cardigans-sweaters,Slim Fit Fine-Knit Sweater,0.0,Gray,Gray,White
+Men,cardigans-sweaters,Slim Fit Fine-Knit Sweater,0.0,White,Beige,Black
+Men,cardigans-sweaters,Slim Fit Fine-Knit Sweater,0.0,Black,Navy,Black
+Men,cardigans-sweaters,Regular Fit Half-Zip Sweatshirt,0.0,Beige,Black,Navy
+Men,cardigans-sweaters,Rib-knit polo jumper,0.0,White,White,Black
+Men,cardigans-sweaters,Rib-knit polo jumper,0.0,Black,Gray,Beige
+Men,cardigans-sweaters,Knit Tank Top,0.0,Black,White,White
+Men,cardigans-sweaters,Slim Fit Waffled Jersey Shirt,0.0,Gray,Gray,White
+Men,cardigans-sweaters,Slim Fit Waffled Jersey Shirt,0.0,Navy,White,Gray
+Men,cardigans-sweaters,Slim Fit Waffled Jersey Shirt,0.0,Gray,Black,Black
+Men,cardigans-sweaters,Slim Fit Fine-Knit Turtleneck Sweater,0.0,Black,White,White
+Men,cardigans-sweaters,Slim Fit Cotton Turtleneck Shirt,0.0,Navy,Beige,Beige
+Men,cardigans-sweaters,Regular Fit Half-Zip Sweatshirt,0.0,Black,White,Gray
+Men,cardigans-sweaters,Regular-Fit Hole-Knit Cardigan,0.0,White,Navy,Gray
+Men,cardigans-sweaters,Regular Fit Fine-Knit Polo Shirt,0.0,Gray,Gray,Gray
+Men,cardigans-sweaters,Regular-Fit Pointelle-Knit Sweater,0.0,White,Black,White
+Men,cardigans-sweaters,Slim Fit Fine-Knit Turtleneck Sweater,0.0,White,Navy,Black
+Men,cardigans-sweaters,Regular-Fit Pointelle-Knit Sweater,0.0,Navy,Gray,White
+Men,cardigans-sweaters,Regular-Fit Sweater Vest,0.0,White,Navy,Beige
+Men,cardigans-sweaters,Regular-Fit Rolled Edge Sweater,0.0,Black,Gray,Navy
+Men,cardigans-sweaters,Regular-Fit Rolled Edge Sweater,0.0,Navy,Black,White
+Men,cardigans-sweaters,Slip-Fit Cardigan with Zipper,0.0,Navy,White,Gray
+Men,cardigans-sweaters,Slip-Fit Cardigan with Zipper,0.0,Navy,Beige,White
+Men,cardigans-sweaters,Regular Fit Textured-Knit Sweater,0.0,White,Beige,Gray
+Men,cardigans-sweaters,Slip-Fit Cardigan with Zipper,0.0,Beige,Navy,White
+Men,cardigans-sweaters,Regular Fit Fine-Knit Polo Shirt,0.0,Gray,Beige,White
+Men,cardigans-sweaters,Regular-Fit Sweater Vest,0.0,Beige,Beige,White
+Men,cardigans-sweaters,Regular Fit Rib-Knit Cardigan,0.0,White,Black,Navy
+Men,cardigans-sweaters,Regular Fit Knit Hooded Jacket,0.0,Black,Gray,Gray
+Men,cardigans-sweaters,Slip-Fit Cardigan with Zipper,0.0,Beige,Navy,Navy
+Men,cardigans-sweaters,Regular Fit Knit Hooded Jacket,0.0,Black,Black,Gray
+Men,cardigans-sweaters,Slim Fit Half-Zip Fine-Knit Sweater,0.0,Navy,Beige,Beige
+Men,cardigans-sweaters,Regular Fit Ribbed Turtleneck Sweater,0.0,White,Gray,Black
+Men,cardigans-sweaters,Regular Fit Textured-Knit Sweater,0.0,Gray,Beige,Gray
+Men,suits-blazers,Slim Fit Wool-Blend Tuxedo Jacket,0.0,Black,Black,Beige
+Men,suits-blazers,Slim-Fit Jacket,0.0,Navy,White,Black
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,Beige,Black,Beige
+Men,suits-blazers,Slim-Fit Jacket,0.0,Navy,Black,White
+Men,suits-blazers,Slim Fit Single-Breasted Tuxedo Jacket,0.0,Navy,White,Navy
+Men,suits-blazers,Slim Fit Velvet Blazer,0.0,Gray,Navy,Navy
+Men,suits-blazers,Relaxed Fit Satin Pants,0.0,Black,Gray,White
+Men,suits-blazers,Slim Fit Shimmery Jacket,0.0,Beige,Navy,Gray
+Men,suits-blazers,Regular Fit Double-Breasted Blazer,0.0,Black,Beige,Beige
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,White,Beige,Beige
+Men,suits-blazers,Slim-Fit Jacket,0.0,Beige,Beige,Navy
+Men,suits-blazers,Skinny Fit Suit Pants,0.0,White,Navy,Black
+Men,suits-blazers,Slim-Fit Jacket,0.0,Beige,White,White
+Men,suits-blazers,Relaxed-Fit Suit Pants,0.0,Black,Beige,Beige
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,White,Navy,Navy
+Men,suits-blazers,Skinny Fit Single-Breasted Jacket,0.0,Beige,Gray,White
+Men,suits-blazers,Slim Fit Linen Jacket,0.0,Navy,Black,White
+Men,suits-blazers,Regular-Fit Single-Breasted Jacket,0.0,Navy,White,Black
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,White,Navy,White
+Men,suits-blazers,Slim-Fit Jacket,0.0,Navy,Gray,Navy
+Men,suits-blazers,Skinny Fit Single-Breasted Jacket,0.0,Black,Navy,Black
+Men,suits-blazers,Slim-Fit Linen Jacket,0.0,Navy,White,Navy
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,White,Black,Navy
+Men,suits-blazers,Regular Fit Suit Pants,0.0,Beige,White,Black
+Men,suits-blazers,Slim-Fit Linen Suit Pants,0.0,Navy,Black,Gray
+Men,suits-blazers,Skinny Fit Suit Pants,0.0,White,White,Navy
+Men,suits-blazers,Skinny Fit Suit Pants,0.0,White,Navy,Black
+Men,suits-blazers,Skinny Fit Single-Breasted Jacket,0.0,Black,Black,Navy
+Men,suits-blazers,Slim-Fit Suit Vest,0.0,Black,Gray,White
+Men,suits-blazers,Slim-Fit Linen Suit Pants,0.0,Black,Beige,White
+Men,suits-blazers,Regular-Fit Double-Breasted Jacket,0.0,Beige,Navy,Beige
+Men,suits-blazers,Regular Fit Double-Breasted Jacket,0.0,Gray,Black,Navy
+Men,suits-blazers,Regular-Fit Suit Pants,0.0,Gray,Gray,Black
+Men,suits-blazers,Regular-Fit Linen-Blend Suit Pants,0.0,Beige,Navy,White
+Men,suits-blazers,Slim-Fit Suit Pants,0.0,White,White,Gray
+Men,suits-blazers,Skinny Fit Single-Breasted Jacket,0.0,Beige,Black,Navy
+Men,shorts,Regular Fit Sweatshorts,0.0,Navy,Black,Beige
+Men,shorts,Regular Fit Sweatshorts,0.0,Navy,Black,Navy
+Men,shorts,Regular Fit Sweatshorts,0.0,Beige,White,White
+Men,shorts,2-Pack Sports Shorts with DryMove™,0.0,Black,White,Navy
+Men,shorts,COOLMAX® Shorts,0.0,Beige,Beige,Black
+Men,shorts,Loose Denim Cargo Shorts,0.0,Navy,Gray,White
+Men,shorts,Cotton Bermuda Shorts,0.0,Beige,Gray,White
+Men,shorts,Double-Layered Sports Shorts with DryMove™,0.0,Gray,Black,Beige
+Men,shorts,Baggy Denim Shorts,0.0,Navy,Beige,Beige
+Men,shorts,Baggy Denim Shorts,0.0,White,White,White
+Men,shorts,Regular Fit Linen-Blend Shorts,0.0,Gray,Gray,Beige
+Men,shorts,Baggy Denim Shorts,0.0,Beige,Beige,Beige
+Men,shorts,Relaxed Fit Denim Shorts,0.0,Black,Black,Beige
+Men,shorts,Regular Fit Linen-Blend Shorts,0.0,Black,White,Gray
+Men,shorts,Regular-Fit Linen Shorts,0.0,Beige,Gray,Black
+Men,shorts,Regular Fit Sweatshorts,0.0,Beige,Black,Beige
+Men,shorts,Regular Fit Chino Shorts,0.0,Gray,Gray,Black
+Men,shorts,Regular Fit Linen-Blend Shorts,0.0,Gray,Gray,White
+Men,shorts,Regular-Fit Linen Shorts,0.0,White,Navy,Navy
+Men,shorts,Regular Fit Chino Shorts,0.0,Navy,Black,Gray
+Men,shorts,Regular Fit Sweatshorts,0.0,Black,Beige,Gray
+Men,shorts,Regular-Fit Cargo Shorts,0.0,Black,White,Navy
+Men,shorts,Regular Fit Chino Shorts,0.0,Navy,Navy,Navy
+Men,shorts,Relaxed-Fit Cargo Shorts,0.0,White,Black,Gray
+Men,shorts,COOLMAX® Shorts,0.0,White,White,Navy
+Men,shorts,Relaxed Fit Twill bermuda shorts,0.0,Black,Gray,Black
+Men,shorts,Regular-Fit Canvas Shorts,0.0,Navy,Gray,Black
+Men,shorts,Regular Fit Linen-Blend Shorts,0.0,Black,Beige,Navy
+Men,shorts,COOLMAX® Shorts,0.0,White,Black,Gray
+Men,shorts,Regular-Fit Canvas Shorts,0.0,White,Navy,Black
+Men,shorts,Regular-Fit Creased Shorts,0.0,Black,White,White
+Men,shorts,Relaxed-Fit Cargo Shorts,0.0,Beige,Gray,Beige
+Men,shorts,Regular-Fit Linen Shorts,0.0,Gray,Navy,Gray
+Men,shorts,Long Sports Cargo Shorts,0.0,Black,Navy,Beige
+Men,shorts,Regular Fit Sweatshorts,0.0,Navy,Gray,Gray
+Men,shorts,Loose Denim Cargo Shorts,0.0,Navy,White,Gray
+Men,nightwear-loungewear,2-pack Regular Fit Jersey joggers,0.0,Black,Navy,Beige
+Men,nightwear-loungewear,Relaxed-Fit Lyocell Pants,0.0,Gray,Beige,Navy
+Men,nightwear-loungewear,Slim-Fit Lyocell Tank Top with Lycra®,0.0,Gray,Navy,White
+Men,nightwear-loungewear,Pajama Shorts,0.0,Navy,Gray,Black
+Men,nightwear-loungewear,Jersey Pajama T-Shirt and Shorts,0.0,Gray,Gray,Beige
+Men,nightwear-loungewear,Pajama Shorts,0.0,Gray,White,Gray
+Men,nightwear-loungewear,Relaxed-Fit Lyocell Pants,0.0,Beige,Black,Beige
+Men,nightwear-loungewear,Relaxed-Fit Poplin Pants,0.0,White,Gray,Navy
+Men,nightwear-loungewear,Jersey Pajama T-Shirt and Shorts,0.0,Black,Gray,Gray
+Men,nightwear-loungewear,Terry Bathrobe,0.0,Black,Black,Gray
+Men,nightwear-loungewear,2-pack Relaxed Fit Poplin Pants,0.0,Black,White,Navy
+Men,nightwear-loungewear,Cotton Pajama Shirt and Pants,0.0,Navy,White,White
+Men,nightwear-loungewear,Relaxed-Fit Poplin Pants,0.0,Gray,Black,White
+Men,nightwear-loungewear,2-pack Pajama Pants,0.0,Beige,Gray,Beige
+Men,nightwear-loungewear,Pajama T-Shirt and Pants Set,0.0,Beige,Beige,Black
+Men,nightwear-loungewear,Pajama T-Shirt and Shorts,0.0,Navy,Gray,Beige
+Men,nightwear-loungewear,Pajama Shirt and Pants,0.0,Black,White,Beige
+Men,nightwear-loungewear,Long-Sleeved Pajama Shirt,0.0,Navy,White,White
+Men,nightwear-loungewear,Pajama Tank Top and Shorts,0.0,White,Beige,Navy
+Men,nightwear-loungewear,Cotton Pajama Shirt and Pants,0.0,Black,Navy,White
+Men,nightwear-loungewear,Long-Sleeved Pajama Shirt,0.0,Gray,Beige,White
+Men,nightwear-loungewear,Pajama Tank Top and Shorts,0.0,Navy,Beige,White
+Men,nightwear-loungewear,Pyjama vest top and bottoms,0.0,Gray,Navy,Beige
+Men,nightwear-loungewear,THERMOLITE® Regular Fit Tank Top,0.0,Black,Navy,Navy
+Men,nightwear-loungewear,Relaxed-Fit Poplin Pants,0.0,Gray,Navy,White
+Men,nightwear-loungewear,Jersey Pajama T-Shirt and Shorts,0.0,Navy,Navy,Gray
+Men,nightwear-loungewear,2-pack Regular Fit Pajama Pants,0.0,Beige,White,White
+Men,nightwear-loungewear,2-pack Regular Fit Jersey joggers,0.0,Gray,White,White
+Men,nightwear-loungewear,Relaxed Fit Cotton Jersey Pajamas,0.0,White,Black,White
+Men,nightwear-loungewear,Pajamas,0.0,Black,Beige,Beige
+Men,nightwear-loungewear,Pajamas,0.0,Gray,Beige,Beige
+Men,nightwear-loungewear,THERMOLITE® Regular Fit Tank Top,0.0,Gray,White,Gray
+Men,nightwear-loungewear,Lyocell-Blend Pajama Pants,0.0,Beige,Navy,Gray
+Men,nightwear-loungewear,Pajama T-Shirt and Shorts,0.0,White,Navy,Gray
+Men,nightwear-loungewear,Flannel Pajama Pants,0.0,Beige,Navy,Black
+Men,nightwear-loungewear,Pajama T-Shirt and Shorts,0.0,Navy,White,Black
