@@ -9,8 +9,7 @@ from sentence_transformers import SentenceTransformer
 
 # Load environment variables
 load_dotenv()
-GOOGLE_API_KEY = "AIzaSyDvHWEDEEEoM_M-rgVb8XqTTFB-8YcssW4"
-api_key = GOOGLE_API_KEY
+api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
 
 # Load product data
@@ -54,7 +53,7 @@ if user_input:
     )
 
     # Query Gemini with retrieved product context
-    model = genai.GenerativeModel("gemini-2.0")
+    model = genai.GenerativeModel("gemini-2.0-flash")
     prompt = f"You are a helpful fashion assistant. Use the following retrieved products as context: {context_text}. Answer the user's query accordingly."
     response = model.generate_content(prompt)
     st.write(response.text)
